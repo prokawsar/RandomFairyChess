@@ -9,6 +9,9 @@ It's not as a regular Chess game, there some different with 3 Fairy Pieces (http
 # Piece setup variation
 For both players every piece with setup randomly within their 2 rows. Among the 16 pieces of chess without KING will replace with one of 3 Fairy pieces Randomly.  
 
+# Requirement
+jre 8.0 or later
+
 # Bugs
 In this game, Checkmate has not implemented, only check will show for both Kings. Checkmate is not implemented due to time lacking. 
 
