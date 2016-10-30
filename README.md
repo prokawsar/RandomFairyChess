@@ -15,4 +15,4 @@ jre 8.0 or later
 # Bugs
 In this game, Checkmate has not implemented, only check will show for both Kings. Checkmate is not implemented due to time lacking. 
 
-
+Web Link: https://prokawsar.github.io/RandomFairyChess/
